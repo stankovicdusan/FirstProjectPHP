@@ -1,0 +1,63 @@
+.order11 {
+	margin-left: 41%;
+    margin-top: 200px;
+}
+.order111{
+    margin-top: 20px;
+}
+.order1{
+    margin-left: 41%;
+}
+.order{
+    margin-left: 34%;
+    margin-top: 200px;
+}
+.kontakt-form {
+	width: 300px;
+    box-sizing: border-box;
+    border: 2px solid #12425d;
+    border-radius: 5px;
+    resize: none;
+}
+
+.button1 {
+	width: 200px;
+    height: 30px;
+    box-sizing: border-box;
+    border: 2px solid #12425d;
+    border-radius: 3px;
+    resize: none;
+}
+.btnFile{
+    margin-top: 10px;
+}
+
+#form-1 {
+	margin-left: 40%;
+}
+
+.list {
+	border: 2px solid #12425d;
+    border-radius: 5px;
+}
+
+#css1 {
+	margin-top: 10%;
+}
+.mouse-products{
+    margin-top: 50px;
+    padding-left: 20%;
+}
+.admin-table{
+    margin-top: 100px;
+}
+.product_grid{
+    padding-top: 80px;
+}
+.product-sort{
+    margin-left: 20px;
+    float: left;
+}
+.timeTable{
+    text-align: center;
+}
